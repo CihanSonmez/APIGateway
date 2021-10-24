@@ -1,3 +1,3 @@
 # APIGateway
 
-Ocelot API Gatewway with two microservices
+Ocelot API Gateway with two microservices
